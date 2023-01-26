@@ -40,7 +40,8 @@ plt.plot(X, Y_pred, color="orange")
 plt.show()
 ```
 ## Output
-![WhatsApp Image 2023-01-25 at 16 26 01](https://user-images.githubusercontent.com/118707669/214550250-7367b68b-4fd1-43bf-812b-3e660db59eae.jpg)
+![WhatsApp Image 2023-01-25 at 16 26 01](https://user-images.githubusercontent.com/118707669/214817604-7be85173-852d-48ac-bdab-1dcccea79d22.jpg)
+
 
 
 ## Result
